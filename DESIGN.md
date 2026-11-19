@@ -1,12 +1,12 @@
-# DESIGN.md — LaundryCalc
+# DESIGN.md — Laundry Kilau
 
-Dokumen keputusan desain antarmuka dan token visual untuk aplikasi LaundryCalc.
+Dokumen keputusan desain antarmuka dan token visual untuk aplikasi Laundry Kilau.
 
 ## Keputusan Desain Pengguna
 
 | Aspek | Pilihan Ditetapkan |
 | :--- | :--- |
-| Nama aplikasi | LaundryCalc |
+| Nama aplikasi | Laundry Kilau |
 | Pengguna utama | Pelanggan laundry rumahan atau kost dan admin toko |
 | Kesan visual | Modern dan ringkas (`Manrope`) |
 | Warna aksen | Biru (`blue`) |

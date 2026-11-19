@@ -20,7 +20,7 @@ export interface AddOnService {
 }
 
 export const STORE_INFO = {
-  appName: 'LaundryCalc',
+  appName: 'Laundry Kilau',
   name: 'Laundry UMKM',
   whatsappNumber: '628xxxxxxxxxx',
   openingDays: 'Senin–Jumat',

@@ -1,4 +1,4 @@
-# PRODUCT.md — LaundryCalc
+# PRODUCT.md — Laundry Kilau
 
 Aplikasi web satu halaman untuk melihat katalog tarif layanan laundry, menghitung estimasi biaya otomatis termasuk aturan minimum charge 3 kg, dan mengirim pesanan terstruktur ke WhatsApp admin toko.
 
