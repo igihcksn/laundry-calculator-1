@@ -18,7 +18,9 @@ export function StoreHeader() {
         <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-neutral-600">
           <span className="inline-flex items-center gap-1.5">
             <Clock className="w-4 h-4 text-neutral-500 shrink-0" aria-hidden="true" />
-            <span className="tabular-nums">Buka setiap hari {STORE_INFO.openingHours}</span>
+            <span className="tabular-nums">
+              Buka {STORE_INFO.openingDays} {STORE_INFO.openingHours}
+            </span>
           </span>
           <span className="inline-flex items-center gap-1.5">
             <Truck className="w-4 h-4 text-neutral-500 shrink-0" aria-hidden="true" />

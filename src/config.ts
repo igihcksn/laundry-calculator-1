@@ -23,6 +23,7 @@ export const STORE_INFO = {
   appName: 'LaundryCalc',
   name: 'Laundry UMKM',
   whatsappNumber: '628xxxxxxxxxx',
+  openingDays: 'Senin–Jumat',
   openingHours: '08.00–20.00 WIB',
   pickupHours: '09.00–17.00 WIB',
   pickupRadiusMaxKm: 5,
